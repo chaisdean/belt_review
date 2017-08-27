@@ -1,0 +1,15 @@
+label{
+    width: 90px;
+    display: inline-block;
+}
+.messages > p{
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
